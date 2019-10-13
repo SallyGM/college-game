@@ -6,7 +6,7 @@ The game consist in a ship (controlled by the user), that has to destroy asteroi
 ## Built With
 
 * [Unity](https://unity.com/) - The engine that I used
-* [C#] - Programming Language
+* C# - Programming Language
 
 ## Authors
 
